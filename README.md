@@ -1,14 +1,17 @@
 <h1 align="center">Hi, I'm Mariam Barakat ✨</h1>  
 <h3 align="center">A passionate Computer Science student from Egypt</h3>  
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
   
 - 🌼 I’m currently working on **improving my competitive programming skills**  
   
-- 🌼 I’m currently learning **Mobile development and Data Science**  
-  
+- 🌼 I’m currently learning **Mobile development and Data Science**
+
+- 🌼 My mission is to **use technology to improve education**    
+ 
 - 🌼 How to reach me **ma.barakat@nu.edu.eg**  
   
 - 🌼 Know about my experiences [resume](https://docs.google.com/document/d/1ewLjecuVmxvANokyU79arSDwXBNeAo_Q/edit?usp=sharing&ouid=112194630695210649845&rtpof=true&sd=true)  
-  
+
 - 🌼 Fun fact **I love meditating, journaling, teaching and digital art✨**  
   
 <h3 align="left">Connect with me:</h3>  
