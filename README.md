@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mariam Barakat ✨</h1>  
 <h3 align="center">A passionate Computer Science student from Egypt</h3>  
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
   
 - 🌼 I’m currently working on **improving my competitive programming skills**  
   
