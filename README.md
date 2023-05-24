@@ -4,7 +4,7 @@
   
 - 🌼 I’m currently working on **improving my competitive programming skills**  
   
-- 🌼 I’m currently learning **Mobile development and Data Science**
+- 🌼 I’m currently learning **Data Science and Deep Learning**
 
 - 🌼 My mission is to **use technology to improve education**    
  
