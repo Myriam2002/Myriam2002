@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student from Egypt</h3>  
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
   
-- 🌼 I’m currently working on **improving my competitive programming skills**  
+- 🌼 I’m currently working on **improving my LLM Knowledge**  
   
 - 🌼 I’m currently learning **Data Science and Deep Learning**
 
@@ -10,7 +10,7 @@
  
 - 🌼 How to reach me **ma.barakat@nu.edu.eg**  
   
-- 🌼 Know about my experiences [resume](https://docs.google.com/document/d/1ewLjecuVmxvANokyU79arSDwXBNeAo_Q/edit?usp=sharing&ouid=112194630695210649845&rtpof=true&sd=true)  
+- 🌼 Know about my experiences [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/Efe2RtKcdw9Nuzs6aAU0kaEBUvsQj0AaGzLyIZwbYBRJOg?e=ApPlaC)  
 
 - 🌼 Fun fact **I love meditating, journaling, teaching and digital art✨**  
   
