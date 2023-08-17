@@ -10,7 +10,7 @@
  
 - 🌼 How to reach me **ma.barakat@nu.edu.eg**  
   
-- 🌼 Know about my experiences [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/Efe2RtKcdw9Nuzs6aAU0kaEBUvsQj0AaGzLyIZwbYBRJOg?e=ApPlaC)  
+- 🌼 Know about my experiences [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/EQHugX-mLXlNqKIOjIpzT2cBYs9rGpo6JrMDuWLxjl59YA?e=MGlS2I)  
 
 - 🌼 Fun fact **I love meditating, journaling, teaching and digital art✨**  
   
