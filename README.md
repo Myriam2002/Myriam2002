@@ -13,27 +13,27 @@ I’m passionate about integrating technology to make education better.
 
 **💼 Experience**
 
-- Edulga (AI Engineer) — Created knowledge graphs using Langchain, Neo4j, and RAG technology for information extraction.
+- **Edulga (AI Engineer)** — Created knowledge graphs using Langchain, Neo4j, and RAG technology for information extraction.
 
-- Ciqler (Part-time Software Developer) — Co-founded Ciqler, automated gift pipeline using GPT-3.5 and AWS Lambda, and improved NLP model accuracy by 30%.
+- **Ciqler (Part-time Software Developer)** — Co-founded Ciqler, automated gift pipeline using GPT-3.5 and AWS Lambda, and improved NLP model accuracy by 30%.
 
-- Algorithmics (Programming Tutor) — Mentored 40+ students (ages 6-18) in Scratch, Python, and interactive programming.
+- **Algorithmics (Programming Tutor)** — Mentored 40+ students (ages 6-18) in Scratch, Python, and interactive programming.
 
-- CIS Research Center (LLM Research Intern) — Researched and fine-tuned Falcon 7B, GPT-2, and Llama 7B for educational tools, optimizing course generation efficiency.
+- **CIS Research Center (LLM Research Intern)** — Researched and fine-tuned Falcon 7B, GPT-2, and Llama 7B for educational tools, optimizing course generation efficiency.
 
-- ELPO (Machine Learning Intern) — Led a team to build a real-time CNN for sign language interpretation and developed a speech-to-image converter.
+- **ELPO (Machine Learning Intern)** — Led a team to build a real-time CNN for sign language interpretation and developed a speech-to-image converter.
 
 **📝 Publications**
 
-A Comparative Analysis of Large Language Models for Automated Course Generation from Books(IEEE, Sep 2024)
+- A Comparative Analysis of Large Language Models for Automated Course Generation from Books(IEEE, Sep 2024)
 
-ArEEG: an Open-Access Arabic Inner Speech EEG Dataset (Nature, Pending Approval)
+- ArEEG: an Open-Access Arabic Inner Speech EEG Dataset (Nature, Pending Approval)
 
 **🏆 Awards**
 
-Top 3 Finalist at Lablab’s Langchain Hackathon
+- Top 3 Finalist at Lablab’s Langchain Hackathon
 
-President’s Cup award for graduating with 4.0 GPA
+- President’s Cup award for graduating with 4.0 GPA
 
 **✉️ Contact**
 Email: Mariam.Barakat@mbzua.ac.ae | [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/EQHugX-mLXlNqKIOjIpzT2cBYs9rGpo6JrMDuWLxjl59YA?e=MGlS2I)  
