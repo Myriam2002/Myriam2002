@@ -2,26 +2,26 @@
 <h3 align="center">A passionate Computer Science student from Egypt</h3>  
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
-✨ NLP Researcher | AI and Education Enthusiast 🔮
+✨ **NLP Researcher | AI and Education Enthusiast** 🔮
 
 I’m passionate about integrating technology to make education better.
 
 **🎓 Education**
 
-Master in NLP from MBZUAI specializing in Educational Rechnology
-Bachelor of Science in Computer Science at Nile University (GPA: 4.0/4.0)
+- **Master in NLP** from MBZUAI specializing in Educational Rechnology
+- **Bachelor of Science in Computer Science** at Nile University (GPA: 4.0/4.0)
 
 **💼 Experience**
 
-Edulga (AI Engineer) — Created knowledge graphs using Langchain, Neo4j, and RAG technology for information extraction.
+- Edulga (AI Engineer) — Created knowledge graphs using Langchain, Neo4j, and RAG technology for information extraction.
 
-Ciqler (Part-time Software Developer) — Co-founded Ciqler, automated gift pipeline using GPT-3.5 and AWS Lambda, and improved NLP model accuracy by 30%.
+- Ciqler (Part-time Software Developer) — Co-founded Ciqler, automated gift pipeline using GPT-3.5 and AWS Lambda, and improved NLP model accuracy by 30%.
 
-Algorithmics (Programming Tutor) — Mentored 40+ students (ages 6-18) in Scratch, Python, and interactive programming.
+- Algorithmics (Programming Tutor) — Mentored 40+ students (ages 6-18) in Scratch, Python, and interactive programming.
 
-CIS Research Center (LLM Research Intern) — Researched and fine-tuned Falcon 7B, GPT-2, and Llama 7B for educational tools, optimizing course generation efficiency.
+- CIS Research Center (LLM Research Intern) — Researched and fine-tuned Falcon 7B, GPT-2, and Llama 7B for educational tools, optimizing course generation efficiency.
 
-ELPO (Machine Learning Intern) — Led a team to build a real-time CNN for sign language interpretation and developed a speech-to-image converter.
+- ELPO (Machine Learning Intern) — Led a team to build a real-time CNN for sign language interpretation and developed a speech-to-image converter.
 
 **📝 Publications**
 
