@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student from Egypt</h3>  
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
-✨ **NLP Researcher | AI and Education Enthusiast** 🔮
+✨ **NLP Researcher | AI and Education Enthusiast** 🐇
 
 I’m passionate about integrating technology to make education better.
 
@@ -11,7 +11,7 @@ I’m passionate about integrating technology to make education better.
 - **Master in NLP** from MBZUAI specializing in Educational Rechnology
 - **Bachelor of Science in Computer Science** at Nile University (GPA: 4.0/4.0)
 
-**💼 Experience**
+**🏔️ Experience**
 
 - **Edulga (AI Engineer)** — Created knowledge graphs using Langchain, Neo4j, and RAG technology for information extraction.
 
@@ -29,7 +29,7 @@ I’m passionate about integrating technology to make education better.
 
 - ArEEG: an Open-Access Arabic Inner Speech EEG Dataset (Nature, Pending Approval)
 
-**🏆 Awards**
+**🥇 Awards**
 
 - Top 3 Finalist at Lablab’s Langchain Hackathon
 
