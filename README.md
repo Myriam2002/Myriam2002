@@ -1,18 +1,33 @@
 <h1 align="center">Hi, I'm Mariam Barakat ✨</h1>  
 <h3 align="center">A passionate Computer Science student from Egypt</h3>  
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
-  
-- 🌼 I’m currently working on **improving my LLM Knowledge**  
-  
-- 🌼 I’m currently learning **Data Science and Deep Learning**
 
-- 🌼 My mission is to **use technology to improve education**    
- 
-- 🌼 How to reach me **mariam.barakat@mbzuai.ac.ae**  
-  
-- 🌼 Know about my experiences [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/EQHugX-mLXlNqKIOjIpzT2cBYs9rGpo6JrMDuWLxjl59YA?e=MGlS2I)  
+✨ NLP Researcher | AI and Education Enthusiast 
+I’m passionate about integrating technology to make education better.
 
-- 🌼 Fun fact **I love coding, journaling, teaching and digital art✨**  
+**🎓 Education**
+Master in NLP from MBZUAI specializing in Educational Rechnology
+Bachelor of Science in Computer Science at Nile University (GPA: 4.0/4.0)
+
+**💼 Experience**
+Edulga (AI Engineer) — Created knowledge graphs using Langchain, Neo4j, and RAG technology for information extraction.
+Ciqler (Part-time Software Developer) — Co-founded Ciqler, automated gift pipeline using GPT-3.5 and AWS Lambda, and improved NLP model accuracy by 30%.
+Algorithmics (Programming Tutor) — Mentored 40+ students (ages 6-18) in Scratch, Python, and interactive programming.
+CIS Research Center (LLM Research Intern) — Researched and fine-tuned Falcon 7B, GPT-2, and Llama 7B for educational tools, optimizing course generation efficiency.
+ELPO (Machine Learning Intern) — Led a team to build a real-time CNN for sign language interpretation and developed a speech-to-image converter.
+
+**📝 Publications**
+A Comparative Analysis of Large Language Models for Automated Course Generation from Books(IEEE, Sep 2024)
+ArEEG: an Open-Access Arabic Inner Speech EEG Dataset (Nature, Pending Approval)
+
+**🏆 Awards**
+Top 3 Finalist at Lablab’s Langchain Hackathon
+President’s Cup award for graduating with 4.0 GPA
+
+**✉️ Contact**
+Email: Mariam.Barakat@mbzua.ac.ae | [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/EQHugX-mLXlNqKIOjIpzT2cBYs9rGpo6JrMDuWLxjl59YA?e=MGlS2I)  
+
+🌼 Fun fact **I love coding, journaling, teaching and digital art✨**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
