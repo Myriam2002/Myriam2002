@@ -8,11 +8,11 @@
 
 - 🌼 My mission is to **use technology to improve education**    
  
-- 🌼 How to reach me **ma.barakat@nu.edu.eg**  
+- 🌼 How to reach me **mariam.barakat@mbzuai.ac.ae**  
   
 - 🌼 Know about my experiences [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/EQHugX-mLXlNqKIOjIpzT2cBYs9rGpo6JrMDuWLxjl59YA?e=MGlS2I)  
 
-- 🌼 Fun fact **I love meditating, journaling, teaching and digital art✨**  
+- 🌼 Fun fact **I love coding, journaling, teaching and digital art✨**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
