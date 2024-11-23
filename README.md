@@ -27,8 +27,6 @@ I’m passionate about integrating technology to make education better.
 
 - A Comparative Analysis of Large Language Models for Automated Course Generation from Books(IEEE, Sep 2024)
 
-- ArEEG: an Open-Access Arabic Inner Speech EEG Dataset (Nature, Pending Approval)
-
 **🥇 Awards**
 
 - Top 3 Finalist at Lablab’s Langchain Hackathon
