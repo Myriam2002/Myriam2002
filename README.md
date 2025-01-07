@@ -9,7 +9,7 @@ I’m passionate about integrating technology to make education better.
 **🎓 Education**
 
 - **Master in NLP** from MBZUAI specializing in Educational Rechnology
-- **Bachelor of Science in Computer Science** at Nile University (GPA: 4.0/4.0)
+- **Bachelor of Science in Computer Science** at Nile University 
 
 **🏔️ Experience**
 
@@ -31,7 +31,7 @@ I’m passionate about integrating technology to make education better.
 
 - Top 3 Finalist at Lablab’s Langchain Hackathon
 
-- President’s Cup award for graduating with 4.0 GPA
+- President’s Cup award 
 
 **✉️ Contact**
 Email: Mariam.Barakat@mbzua.ac.ae | [resume](https://nileuniversity-my.sharepoint.com/:b:/g/personal/ma_barakat_nu_edu_eg/EQHugX-mLXlNqKIOjIpzT2cBYs9rGpo6JrMDuWLxjl59YA?e=MGlS2I)  
